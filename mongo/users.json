@@ -1,0 +1,62 @@
+				{
+				"_id": {
+					"$oid": "58c41d5d3eddd93e9ab5b078"
+				},
+				"userId": "100000077",
+				"userName": "xgy",
+				"userPwd": "123456",
+				"orderList": [
+				],
+				"cartList": [
+				],
+				"addressList": [{
+						"addressId": "100001",
+						"userName": "xgybaba",
+						"streetName": "北京市朝阳区朝阳公园",
+						"postCode": "100001",
+						"tel": "12345678901",
+						"isDefault": true
+					},
+					{
+						"addressId": "100004",
+						"userName": "xgybaba",
+						"streetName": "北京市朝阳区SOHO",
+						"postCode": "100005",
+						"tel": "010555555",
+						"isDefault": false
+					},
+					{
+						"addressId": "100005",
+						"userName": "xgybaba",
+						"streetName": "北京市海淀区西二旗",
+						"postCode": "100009",
+						"tel": "18710987654",
+						"isDefault": false
+					},
+					{
+						"addressId": "100006",
+						"userName": "xgymama",
+						"streetName": "南京市江宁区谷里",
+						"postCode": "100009",
+						"tel": "010655555",
+						"isDefault": false
+					},
+					{
+						"addressId": "100007",
+						"userName": "xgymama",
+						"streetName": "南京市雨花台区铁心桥春江金城",
+						"postCode": "100010",
+						"tel": "13619898722",
+						"isDefault": false
+					},
+					{
+						"addressId": "100008",
+						"userName": "xgymama",
+						"streetName": "南京市秦淮区夫子庙",
+						"postCode": "100011",
+						"tel": "10125652345",
+						"isDefault": false
+					}
+				],
+				"__v": 30
+			}
